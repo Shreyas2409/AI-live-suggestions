@@ -1,4 +1,4 @@
-# TwinMind — Live Suggestions
+# AI— Live Suggestions
 
 A real-time AI meeting copilot that listens to live audio, transcribes it, and surfaces contextual suggestions — all powered by Groq's inference engine.
 
